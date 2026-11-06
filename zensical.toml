@@ -1,0 +1,9 @@
+[project]
+site_name = "ChatGPT Scheduled Tasks"
+site_description = "A practical guide to planning, creating and maintaining scheduled tasks in ChatGPT."
+nav = [
+  { "Overview" = "index.md" },
+  { "Create a task" = "create-a-task.md" },
+  { "Design the prompt" = "prompt-design.md" },
+  { "Case study: Misha Weekly Monitor" = "case-study-misha-monitor.md" },
+]
