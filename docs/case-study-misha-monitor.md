@@ -69,4 +69,4 @@ The result is a decision-support workflow, not an autonomous marketing manager. 
 - Keep the output short enough that someone will actually read it.
 - Revisit the prompt when the project's needs change.
 
-This example is based on a real monitoring workflow for Misha, an independently developed visual novel. Project-specific operational details have been omitted.
+This example is based on a real monitoring workflow for [Misha](https://store.steampowered.com/app/4559470/Misha/), an independently developed visual novel. Project-specific operational details have been omitted.
