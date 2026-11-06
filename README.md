@@ -1,6 +1,6 @@
 # ChatGPT Scheduled Tasks: A Practical Guide
 
-A concise, task-oriented guide to planning and maintaining recurring or one-time tasks in ChatGPT.
+A concise, task-oriented guide to planning and maintaining recurring tasks in ChatGPT.
 
 **Live site:** https://thanursan.github.io/scheduled-tasks-guide/
 
