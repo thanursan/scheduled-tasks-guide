@@ -1,9 +1,26 @@
 [project]
 site_name = "ChatGPT Scheduled Tasks"
+site_url = "https://thanursan.github.io/scheduled-tasks-guide/"
 site_description = "A practical guide to planning, creating and maintaining scheduled tasks in ChatGPT."
+repo_url = "https://github.com/thanursan/scheduled-tasks-guide"
+repo_name = "thanursan/scheduled-tasks-guide"
+edit_uri = "edit/main/docs/"
+
 nav = [
   { "Overview" = "index.md" },
   { "Create a task" = "create-a-task.md" },
   { "Design the prompt" = "prompt-design.md" },
   { "Case study: Misha Weekly Monitor" = "case-study-misha-monitor.md" },
 ]
+
+# Light mode
+[[project.theme.palette]]
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+# Dark mode
+[[project.theme.palette]]
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
